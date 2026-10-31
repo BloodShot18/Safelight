@@ -1,0 +1,4 @@
+# Copy to .dev.vars for local development with: npx wrangler pages dev
+TMDB_KEY=your_tmdb_v3_api_key
+# A24_ID=41077
+# NEON_ID=90733
